@@ -1,0 +1,22 @@
+
+#numeri {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    max-width: 58%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#numeri a {
+    font-size: 600%;
+    color: #1F2326;
+}
+.active {
+    -webkit-text-fill-color:#1F2326;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+}
+#imageholder {
+    max-width: 60%;
+    max-height: 300px;
+}

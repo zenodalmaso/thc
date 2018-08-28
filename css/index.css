@@ -1,0 +1,11 @@
+#header_thc {
+    position: fixed;
+    top: 0px;
+    left: 20px;
+}
+#adesivi {
+    padding-top: 50px;
+}
+#adesivi > div > img{
+    max-width: 350px;
+}

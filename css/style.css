@@ -1,0 +1,67 @@
+/*@font-face {
+    font-family: Druk;
+    src: url(../font/DrukWide-Medium.otf);
+}
+
+@font-face {
+    font-family: Homoarak;
+    src: url(../font/HOMOARAK.TTF);
+}*/
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../font/HelveticaNeue.dfont);
+}
+
+body { 
+    background-color:black;
+    color: white;
+    overflow:hidden;
+    margin-bottom: 80px;
+}
+
+#menu{
+    margin-top: 15%;
+}
+
+#menu li {
+    border-right: .1rem solid #CCC;
+}
+
+#menu li:last-child {
+    border: none;
+}
+
+li {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+ul > li > a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: HelveticaNeue;
+    font-size: 150%;
+}
+
+ul > li.active > a {
+    color: yellow;
+}
+
+ul > li:hover > a {
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+}
+
+#thc_logo{
+    max-height: 25px;
+}
+  

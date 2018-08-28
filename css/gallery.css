@@ -1,0 +1,19 @@
+body {
+    overflow-y: scroll;
+}
+
+#gallery {
+    margin-top: 50px;
+}
+
+.tripletta{
+    margin-bottom: 50px;
+}
+
+.item {
+    max-width: 300px;
+}
+
+footer {
+    bottom:auto !important;
+}
