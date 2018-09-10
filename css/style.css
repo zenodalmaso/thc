@@ -13,7 +13,7 @@
     src: url(../font/HelveticaNeue.dfont);
 }
 
-body { 
+body {
     background-color:black;
     color: white;
     overflow:hidden;
@@ -21,7 +21,7 @@ body {
 }
 
 #menu{
-    margin-top: 15%;
+    margin-top: 7%;
 }
 
 #menu li {
@@ -64,4 +64,3 @@ ul > li:hover > a {
 #thc_logo{
     max-height: 25px;
 }
-  
